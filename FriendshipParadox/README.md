@@ -1,4 +1,4 @@
-# Testing the Friendship Paradox with Facebook
+# Observing the Friendship Paradox with Facebook
 
 The friendship paradox is the phenomenon first observed by the sociologist Scott L. Feld in 1991 that most people have fewer friends than their friends have, on average. 
 
