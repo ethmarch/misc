@@ -1,2 +1,2 @@
 # misc
-Small miscellaneous projects I've done that didn't need their own repo
+Small miscellaneous projects that didn't need their own repo
